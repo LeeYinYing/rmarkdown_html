@@ -1,3 +1,3 @@
 # rmarkdown_html
 
-[html file](https://github.com/LeeYinYing/rmarkdown_html/blob/master/new_rmarkdown.html)
+[html file](https://leeyinying.github.io/rmarkdown_html/new_rmarkdown.html)
